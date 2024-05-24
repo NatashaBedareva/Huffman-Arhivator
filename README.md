@@ -37,7 +37,7 @@ void write_file(FILE *Writefile,VectorBool* date);
 ## Getting started
 
 output->
-```http
+```
 +--------------------------------------------------+
 | Below are the commands:                          |
 | help --  this command opens which you use;       |
@@ -50,22 +50,22 @@ There are three text files in the "input" folder where you can check the program
 
 ### input exemplar files
 This file contains the text of the book "Harry Potter and the Sorcerer's Stone"
-```http
+```
   ./input/input.txt
 ```
 
 This file contains an excerpt of the text
-```http
+```
   ./input/input2.txt
 ```
 
 This file contains a couple of copies of the first text
-```http
+```
   ./input/input3.txt
 ```
 
 ## Building and running
-```http
+```
   gcc main.c Huffman_encoding.c quickSort.c Vector.c -o main
   ./main
 ```
