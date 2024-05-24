@@ -25,7 +25,7 @@ creat_date() -- This function creates an array of data
 write_file() -- This function outputs the response to a file
 
 
-```http
+```
 //functions in Huffman_encoding.h
 
 void create_grid(FILE* file,Grid *grid,Grid *grid_sorted);
