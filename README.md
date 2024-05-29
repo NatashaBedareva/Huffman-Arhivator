@@ -52,6 +52,8 @@ There are three text files in the "input" folder where you can check the program
 ### input exemplar files
 Commands are entered into the command line after the line "Enter the command:"
 
+after entering the command, press Enter
+
 If you want to archive a text file, enter the "comp" command. If you want to look at the available commands, enter the "help" command
 
 This file contains the text of the book "Harry Potter and the Sorcerer's Stone"
