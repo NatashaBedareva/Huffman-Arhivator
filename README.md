@@ -44,11 +44,16 @@ output->
 | comp -- this command compresses a text file;     |
 +--------------------------------------------------+
 ```
+
 You will receive two files at the output. "output.txt" - compressed file and "test.txt" - decrypted file "output.txt"
 
 There are three text files in the "input" folder where you can check the program. Example of setting a path
 
 ### input exemplar files
+Commands are entered into the command line after the line "Enter the command:"
+
+If you want to archive a text file, enter the "comp" command. If you want to look at the available commands, enter the "help" command
+
 This file contains the text of the book "Harry Potter and the Sorcerer's Stone"
 ```
   ./input/input.txt
