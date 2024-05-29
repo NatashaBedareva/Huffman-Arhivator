@@ -9,6 +9,8 @@
 
 void printf_help()
 {
+    printf("Commands are entered into the command line after the line \"Enter the command:\"\n"
+           "If you want to archive a text file, enter the \"comp\" command. If you want to look at the available commands, enter the \"help\" command\n");
     printf("+--------------------------------------------------+\n");
     printf("| Below are the commands:                          |\n");
     printf("| help --  this command opens which you use;       |\n");
